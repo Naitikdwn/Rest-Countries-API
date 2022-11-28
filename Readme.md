@@ -6,4 +6,6 @@ webpage using html,css,js with a nice UI
 
 ##
 
-Screenshots
+Screenshot
+
+![login](https://raw.githubusercontent.com/Naitikdwn/Rest-Countries-API/master/Screenshot.png)
